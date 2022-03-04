@@ -1,0 +1,10 @@
+if __name__ == '__main__':
+    p = int(input())
+    q = int(input())
+    r=p+q
+    print(r)
+    s=p-q
+    print(s)
+    t=p*q
+    print(t)
+
